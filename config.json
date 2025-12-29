@@ -4,10 +4,10 @@
   "ANTI_LINK": false,
   "AUTO_BLOCK_UNKNOWN": false,
   "ANTI_BADWORDS": false,
-  "OWNER_JID": "2347017747337@s.whatsapp.net",
-  "WHATSAPP_NUMBER": "2347017747337",
+  "OWNER_JID": "2347036286839@s.whatsapp.net",
+  "WHATSAPP_NUMBER": "2347036286839",
   "BOT_NAME": "DESIRE-EXE V1.0",
-  "PHONE_NUMBER": "2347017747337",
+  "PHONE_NUMBER": "2347036286839",
   "MAX_MEDIA_SIZE": "1500000",
   "GEMINI_API": "Awsdfgg13456yhh",
   "GEMINI_PROMPT": "You must pretend to be a WhatsApp Bot named Desire-eXe V2.0 and answer questions briefly.",
@@ -17,5 +17,6 @@
   "prefix": ".",
   "BAD_WORDS": ["fork", "as", "anu"]
 }
+
 
 
